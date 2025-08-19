@@ -8,3 +8,4 @@ chromadb
 python-dotenv
 langchain-community
 sentence-transformers
+mistralai
